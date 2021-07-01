@@ -1,0 +1,2 @@
+# ObjectOrientation-Java
+This was my first attempt at creating an Object Orientated Program in Java, the program contains four classes with BurgerMain being the main class. The user is able to create their own burger and add the toppings of their choice and have the price outputted to them at the end. Although simple this program demonstrates knowledge of Object Orientated Programming and more specifically inheritance, polymorphism and encapsulation.
